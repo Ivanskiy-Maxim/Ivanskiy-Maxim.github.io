@@ -342,11 +342,14 @@ body {
     text-align: center;
     color: gray;
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
 }
 
 .name {
     display: flex;
     justify-content: space-between;
+    
 }
 
 .btn button{
